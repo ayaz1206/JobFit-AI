@@ -1,0 +1,42 @@
+skill,category
+python,language
+java,language
+c++,language
+sql,language
+pandas,tool
+numpy,tool
+matplotlib,tool
+scikit-learn,tool
+tensorflow,tool
+pytorch,tool
+keras,tool
+docker,devops
+kubernetes,devops
+aws,cloud
+gcp,cloud
+azure,cloud
+linux,os
+bash,os
+git,devops
+rest api,devops
+graphql,devops
+recommendation systems,ml
+natural language processing,ml
+computer vision,ml
+time series,ml
+data preprocessing,data
+feature engineering,data
+communication,soft
+teamwork,soft
+leadership,soft
+problem solving,soft
+fastapi,framework
+flask,framework
+react,framework
+spark,tool
+airflow,tool
+mongodb,database
+postgresql,database
+mysql,database
+rabbitmq,devops
+kafka,devops
