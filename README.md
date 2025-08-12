@@ -3,7 +3,7 @@ Upload your resume + paste a job description → get a match score, missing skil
 
 **Live demo**: (Deploy on Streamlit Cloud or Hugging Face Spaces)
 
-##** Features 
+##Features 
 - Match score with transparent breakdown
 - Weighted skill overlap (important JD skills count more)
 - Sentence-embedding semantic similarity
