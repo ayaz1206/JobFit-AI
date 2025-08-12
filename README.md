@@ -1,9 +1,9 @@
-# 🧵 AI Resume Tailor
+# AI Resume Tailor
 Upload your resume + paste a job description → get a match score, missing skills & keywords, ATS sanity checks, and tailored bullet rewrites you can copy.
 
 **Live demo**: (Deploy on Streamlit Cloud or Hugging Face Spaces)
 
-## ✨ Features
+##** Features 
 - Match score with transparent breakdown
 - Weighted skill overlap (important JD skills count more)
 - Sentence-embedding semantic similarity
@@ -12,7 +12,7 @@ Upload your resume + paste a job description → get a match score, missing skil
 - ATS sanity checks
 - Shareable PNG badge (role/company/score)
 
-## 🚀 Quickstart
+## Quickstart
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
