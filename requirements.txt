@@ -7,3 +7,5 @@ numpy==1.26.4
 pandas==2.2.1
 rapidfuzz==3.8.1
 nltk==3.8.1
+Pillow==10.3.0
+sentence-transformers==2.7.0
