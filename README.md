@@ -11,8 +11,3 @@ Upload your resume + paste a job description → get a match score, missing skil
 - Tailored bullet rewrites (keeps numbers/impact)
 - ATS sanity checks
 - Shareable PNG badge (role/company/score)
-
-## Quickstart
-```bash
-pip install -r requirements.txt
-streamlit run app.py
